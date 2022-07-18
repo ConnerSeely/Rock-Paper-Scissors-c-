@@ -1,0 +1,15 @@
+C:\source\codeworks\day-1\bin\Debug\net6.0\day-1.exe
+C:\source\codeworks\day-1\bin\Debug\net6.0\day-1.deps.json
+C:\source\codeworks\day-1\bin\Debug\net6.0\day-1.runtimeconfig.json
+C:\source\codeworks\day-1\bin\Debug\net6.0\day-1.dll
+C:\source\codeworks\day-1\bin\Debug\net6.0\day-1.pdb
+C:\source\codeworks\day-1\obj\Debug\net6.0\day-1.csproj.AssemblyReference.cache
+C:\source\codeworks\day-1\obj\Debug\net6.0\day-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\day-1\obj\Debug\net6.0\day-1.AssemblyInfoInputs.cache
+C:\source\codeworks\day-1\obj\Debug\net6.0\day-1.AssemblyInfo.cs
+C:\source\codeworks\day-1\obj\Debug\net6.0\day-1.csproj.CoreCompileInputs.cache
+C:\source\codeworks\day-1\obj\Debug\net6.0\day-1.dll
+C:\source\codeworks\day-1\obj\Debug\net6.0\refint\day-1.dll
+C:\source\codeworks\day-1\obj\Debug\net6.0\day-1.pdb
+C:\source\codeworks\day-1\obj\Debug\net6.0\day-1.genruntimeconfig.cache
+C:\source\codeworks\day-1\obj\Debug\net6.0\ref\day-1.dll
